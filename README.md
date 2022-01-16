@@ -5,7 +5,7 @@
 
 https://mamovie.netlify.app/
 
-MAMovie é uma aplicação full stack web construída durante a 6ª edição da **Semana Spring React** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+MAMovie é uma aplicação full stack web construída durante a 6ª edição da **Semana Spring React** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
 
 Esta aplicação consiste em exibir um catálogo de filmes a partir de dados fornecidos por um back end construído com Spring Boot e permite fazer uma avaliação dos filmes cadastrados, atualizando as notas.
 
